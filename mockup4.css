@@ -1,0 +1,146 @@
+
+
+#header {
+    z-index: 1;
+    position: fixed;
+    width: 97.5%;
+    margin-top: -20px;
+    height: 60px;
+    background-color: White;
+    margin-bottom: 10px;
+    border: 2px solid black;
+}
+
+#headline {
+    font-size: 50px;
+    position: fixed;
+    color: darkorange;
+}
+
+
+#name {
+    position: fixed;
+    margin-top: 140px;
+    color: mediumpurple;
+    font-size: 14px;
+}
+
+#ip1 {
+    position: fixed;
+    height: 25px;
+    width: 200px;
+    background-color: white;
+    font-size: 14px;
+    text-align: center;
+    border: 2px solid black;
+    margin-top: 136px;
+    margin-left: 80px;
+}
+
+#email {
+    position: fixed;
+    margin-top: 200px;
+    color: mediumpurple;
+    font-size: 14px;
+}
+
+#ip2 {
+    position: fixed;
+    height: 25px;
+    width: 200px;
+    background-color: white;
+    font-size: 14px;
+    text-align: center;
+    border: 2px solid black;
+    margin-top: 195px;
+    margin-left: 80px;
+}
+
+
+#phone {
+    position: fixed;
+    margin-top: 260px;
+    color: mediumpurple;
+    font-size: 14px;
+}
+
+
+#ip3 {
+    position: fixed;
+    height: 25px;
+    width: 200px;
+    background-color: white;
+    font-size: 14px;
+    text-align: center;
+    border: 2px solid black;
+    margin-top: 250px;
+    margin-left: 80px;
+}
+
+
+#from {
+    position: fixed;
+    margin-top: 320px;
+    margin-left: 35px;
+    color: mediumpurple;
+    font-size: 14px;
+}
+
+#frm {
+    position: fixed;
+    height: 25px;
+    width: 25px;
+    background-color: white;
+    font-size: 14px;
+    text-align: center;
+    border: 2px solid mediumpurple;
+    margin-top: 315px;
+
+}
+
+#not {
+    position: fixed;
+    margin-top: 320px;
+    margin-left: 185px;
+    color: mediumpurple;
+    font-size: 14px;
+}
+
+#nt {
+    position: fixed;
+    height: 25px;
+    width: 25px;
+    background-color: white;
+    font-size: 14px;
+    text-align: center;
+    border: 2px solid mediumpurple;
+    margin-top: 315px;
+    margin-left: 150px;
+}
+
+#submit {
+    position: fixed;
+    height: 20px;
+    width: 100px;
+    background-color: yellow;
+    font-size: 14px;
+    text-align: center;
+    border: 2px solid black;
+    margin-top: 365px;
+    margin-left: 30px;
+}
+
+
+
+ul {
+
+    padding: 10px;
+    background: white;
+}
+
+li {
+    display: inline-block;
+    padding: 0px 10px 0px 10px;
+}
+
+
